@@ -35,6 +35,10 @@ The application was developed by [Rocketseat](https://rocketseat.com.br/) during
 
 ![video](.github/video.gif)
 
+- Email sent with screenshot
+
+![video](.github/video-mailtrap.gif)
+
 <br>
 
 <a id="technologies"></a><br>
